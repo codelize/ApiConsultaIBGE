@@ -30,4 +30,5 @@ public class ConsultaIBGETest {
         int statusCode = connection.getResponseCode();
         assertEquals(200, statusCode, "O status code da resposta da API deve ser 200 (OK)");
     }
+
 }
