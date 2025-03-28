@@ -10,7 +10,7 @@ Este projeto é uma simples aplicação Java que utiliza a API do IBGE para cons
 
 ### Requisitos
 
-- Java 8 ou superior
+- Java 8 ou superiorr
 - Maven
 
 ### Clonando o Repositório
